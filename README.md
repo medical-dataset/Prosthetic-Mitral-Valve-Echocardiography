@@ -6,8 +6,8 @@ A total of 2046 comprehensive non-stress transthoracic echocardiography cases we
 For each case, cardiac cycle videos of both A4C and PLA views were stored in the Digital Imaging and Communications in Medicine (DICOM) format.  
 Then for each view, each clip was visually classified and labeled as prosthetic or natural MV by a single cardiologist highly experienced in advanced echocardiography with more than a decade of experience. Note that all the frames of 1 cycle were classified as natural or prosthetic MV images. 
 
-Download dataset : please fill the request form (registerform.docx) and send to majvaf@gmail.com to receive the download link.
-
+# Download dataset : 
+Please fill the request form (registerform.docx) and send it to majvaf@gmail.com to receive the download link.
 
 
 

@@ -16,7 +16,7 @@ If you find this dataset useful in your research, please use the following BibTe
 @misc{xxx,
   author =       {Majid Vafaeezadeh, Hamid Behnam, Ali Hosseinsabet, Parisa Gifani },
   title =        {A Deep Learning Approach for the Automatic Recognition of Prosthetic Mitral Valve in Echocardiographic Images },
-  howpublished = {\url{https://github.com/medical-dataset/Prosthetic-Mitral-Valve-Echocardiography}},
+  howpublished = {\url{xxx}},
   year =         {2021}
 }
 
